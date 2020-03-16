@@ -1,5 +1,7 @@
 # Video-kentpei
 video-kentpei created by GitHub Classroom
+# AWS website
+http://3.87.229.84:8080/
 # technology 
 1.Python3.7  
 2.Tweppy(Twitter API)  
